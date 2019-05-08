@@ -1,2 +1,2 @@
-say_hello("Alex")
+say_hello("name")
 end
